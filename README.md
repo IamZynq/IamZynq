@@ -25,9 +25,9 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 
 # some of my projects
 
-🌕 **[OfficeInLine](https://vyr0nx.github.io/OfficeInLine/)** –.
+🌕 **[OfficeInLine](https://vyr0nx.github.io/OfficeInLine/)** 
 
-👑 **[AdminDashboardTemplate](https://github.com/vyr0nx/AdminDashboardTemplate.git)** - 
+👑 **[AdminDashboardTemplate](https://github.com/vyr0nx/AdminDashboardTemplate.git)** 
 
-✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)** -
+✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)**
 
