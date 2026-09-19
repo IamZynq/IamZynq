@@ -34,6 +34,6 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 you can support my work through **PayPal** or **Cryptocurrency**.
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate%20with%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ABCD1239597)
-[![Donate with Crypto](https://img.shields.io/badge/Donate%20with%20Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](YOUR_CRYPTO_LINK)
+
 
 Every donation helps me continue building open-source projects and exploring new ideas. ❤️
