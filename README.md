@@ -1,7 +1,7 @@
-# ![https://diego-devjss.vercel.app/](https://raw.githubusercontent.com/vyr0nx/vyr0nx/master/photto.png) Hello👋
+# ![](https://raw.githubusercontent.com/vyr0nx/vyr0nx/master/photto.png) Hello👋
 ### 
 
-![https://github.com/vyr0nx](./stworiginal.png)
+![https://github.com/IamZynq](./stworiginal.png)
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
@@ -31,9 +31,6 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 
 ✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)**
 
-you can support my work through **PayPal** or **Cryptocurrency**.
-
-[![Donate with PayPal](https://img.shields.io/badge/Donate%20with%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ABCD1239597)
 
 
-Every donation helps me continue building open-source projects and exploring new ideas. ❤️
+
