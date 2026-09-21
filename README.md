@@ -1,7 +1,7 @@
-# ![https://diego-devjss.vercel.app/](https://raw.githubusercontent.com/vyr0nx/vyr0nx/master/photto.png) Hello👋
-###  engineer
+# Hello👋
+### 
 
-![https://github.com/vyr0nx](./stworiginal.png)
+![https://github.com/IamZynq](./stworiginal.png)
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
@@ -25,9 +25,12 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 
 # some of my projects
 
-🌕 **[OfficeInLine](https://vyr0nx.github.io/OfficeInLine/)** –.
+🌕 **[Zafiro-Theme](https://github.com/IamZynq/Zafiro-theme)** 
 
-👑 **[AdminDashboardTemplate](https://github.com/vyr0nx/AdminDashboardTemplate.git)** - 
+👑 **[AdminDashboardTemplate](https://github.com/vyr0nx/AdminDashboardTemplate.git)** 
 
-✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)** -
+✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)**
+
+
+
 
