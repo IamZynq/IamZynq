@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/vyr0nx/vyr0nx/master/photto.png) Hello👋
+# Hello👋
 ### 
 
 ![https://github.com/IamZynq](./stworiginal.png)
